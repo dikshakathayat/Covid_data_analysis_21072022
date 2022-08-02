@@ -1,0 +1,9 @@
+Country,Healthcare expenditure ($) - 2020,Healthcare expenditure ($) - 2021,Healthcare budget ($) - 2022
+India,282651687,129898354,108845257
+USA,12000000000,13000000000,17000000000
+China,2930000000,2800000000,5340000000
+,,,
+Country,India,USA,China
+Healthcare expenditure ($) - 2020,282651687,12000000000,2930000000
+Healthcare expenditure ($) - 2021,129898354,13000000000,2800000000
+Healthcare budget ($) - 2022,108845257,17000000000,5340000000
